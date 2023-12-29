@@ -5,10 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/firstMap.umap",
 				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/StorePropsCollection/PreviewScene/PreviewScene.umap",
 				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/NaturePackage/Maps/Overview.umap",
 				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/NaturePackage/Maps/Showcase.umap",
+				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/BV/1MZYYU7QO60FP8XOSO120T.uasset",
+				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/DW/MOP240XQGQF306U0V1LU67.uasset",
+				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/V2/CEL9B8EB0F0K4IM7PZQ9BY.uasset",
+				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX.uasset",
+				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R.uasset",
+				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.uasset",
+				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O.uasset",
+				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
+				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/firstMap.umap",
 				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/VintageRoom/Meshes/Desk_Merged.uasset",
 				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/VintageRoom/Meshes/Globe_Merged.uasset",
 				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/VintageRoom/Meshes/Pen_Merged.uasset",
@@ -193,8 +202,7 @@
 				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/VintageRoom/Textures/T_Suitcase_01a_4096_ORM.uasset",
 				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/VintageRoom/Textures/T_Wall_Painting_01a_2048_B.uasset",
 				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/VintageRoom/Textures/T_Wall_Painting_01a_2048_N.uasset",
-				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/VintageRoom/Textures/T_Wall_Painting_01a_2048_ORM.uasset",
-				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/VintageRoom/Textures/T_Wall_Painting_01a_2048_ORM.uasset"
 			]
 		}
 	]
