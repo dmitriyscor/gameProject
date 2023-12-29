@@ -6,6 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/firstMap.umap",
+				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/StorePropsCollection/PreviewScene/PreviewScene.umap",
+				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/NaturePackage/Maps/Overview.umap",
+				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/NaturePackage/Maps/Showcase.umap",
 				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/VintageRoom/Meshes/Desk_Merged.uasset",
 				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/VintageRoom/Meshes/Globe_Merged.uasset",
 				"E:/work/UnrealEng/gameProject/myGame/myGame/Content/VintageRoom/Meshes/Pen_Merged.uasset",
